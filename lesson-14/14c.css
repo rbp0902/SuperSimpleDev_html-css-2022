@@ -1,0 +1,12 @@
+body {
+  height: 3000px;
+}
+
+.cover {
+  background-color: rgb(105, 174, 181);
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
